@@ -1,2 +1,1 @@
-# DAAA
-The D-Central Intelligence 4 the D-Central Autonomous Agency Agency
+# The Distributed Autonomous Agency Agency
